@@ -113,8 +113,8 @@ const images = [
     tags: [TAGS.NODE, TAGS.REACT, TAGS.TAILWIND, TAGS.MYSQL, TAGS.AZURE],
     textdes: `Desarrollé una plataforma de comercio electrónico para una empresa especializada en la venta de productos de belleza, encargándome tanto del backend como del frontend. Utilicé metodologías ágiles para garantizar un desarrollo escalable y eficiente.
   El sitio permite a los usuarios explorar productos por categoría, agregarlos a un carrito de compras y completar sus pedidos mediante MercadoPago, tras registrarse en la plataforma.
-  Además, incluye un panel de administración donde los encargados pueden gestionar productos (agregar, modificar precios, tamaños, imágenes), ver la lista de usuarios registrados, revisar las compras realizadas y enviar notificaciones personalizadas a los clientes, optimizando la comunicación y fidelización.`
-
+  Además, incluye un panel de administración donde los encargados pueden gestionar productos (agregar, modificar precios, tamaños, imágenes), ver la lista de usuarios registrados, revisar las compras realizadas y enviar notificaciones personalizadas a los clientes, optimizando la comunicación y fidelización.`,
+    url: "https://www.minna.pe"
   },
   {
     img: "img/TG.jpg",
@@ -152,9 +152,11 @@ const images = [
     empresa: "TIGAL GROUP",
     año: "2023",
     type: "Aplicación Web",
-    colortext: "#0212E4",
+    colortext: "#4754fd ",
+    textdes: "Plataforma eCommerce desarrollada para la comercialización de licores de colección, artículos especializados para bartender y productos florales, combinando elegancia y funcionalidad en una sola experiencia digital. El proyecto fue diseñado con una interfaz moderna, profesional y altamente dinámica, enfocada en captar la atención de los clientes desde el primer momento. La navegación intuitiva y la organización clara de los productos permiten una experiencia fluida y fácil de entender, mejorando la interacción del usuario y facilitando el proceso de compra.",
     imgInfo: ["img/DC/DC1.webp", "img/DC/DC2.webp", "img/DC/DC3.webp", "img/DC/DC4.webp"],
-    tags: [TAGS.REACT, TAGS.TAILWIND, TAGS.MYSQL]
+    tags: [TAGS.REACT, TAGS.TAILWIND, TAGS.MYSQL],
+    url: "https://designcollections.pe"
   },
   {
     img: "img/Proditel.png",
